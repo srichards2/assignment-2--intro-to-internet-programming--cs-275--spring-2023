@@ -23,6 +23,17 @@ Friday, 24 March 2023, at 10:00 PM.
 
 ---
 
+## ❖・Grading・❖
+
+| Item                                                      | Points |
+| --------------------------------------------------------- | :----: |
+| *Assignment fully implemented according to directions*    | `25`   |
+| *Overall code quality across Gulp, JavaScript, and CSS*   | `25`   |
+| *User interface matches assignment video rendering*       | `25`   |
+| *Full Gulp development and production scaffolds in place* | `25`   |
+
+**Tip**: To ensure the files required by your project are not being ignored, you’re strongly advised to clone your repo into a different folder on your computer, or to a different computer altogether.
+
 ---
 
 ## ❖・Submission・❖
