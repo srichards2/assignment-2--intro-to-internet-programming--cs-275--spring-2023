@@ -38,6 +38,11 @@ Before you begin, **update Node, NPM, ESLint, and Stylelint** via `npm` from you
 * Validate/lint JavaScript according to the included `.eslintrc` rules. (**Do not alter**.)
 * Validate/lint CSS according to the included `.stylelintrc.json` rules. (**Do not alter**.)
 
+### HTML
+
+* The included `index.html` contains all the HTML required for this project. **Do not** edit it.
+* Any DOM manipulations *must* take place via JavaScript.
+
 ## ❖・Due・❖
 
 Friday, 24 March 2023, at 10:00 PM.
