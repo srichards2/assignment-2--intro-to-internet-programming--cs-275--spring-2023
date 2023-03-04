@@ -15,6 +15,14 @@
 4. Checkout your personalized branch, the one with your name and GitHub user handle.
 
 ---
+## ❖・Due・❖
+
+Friday, 24 March 2023, at 10:00 PM.
+
+**Note**: This assignment may *only* be submitted via GitHub. **No other form of submission will be accepted**.
+
+---
+
 ---
 
 ## ❖・Submission・❖
