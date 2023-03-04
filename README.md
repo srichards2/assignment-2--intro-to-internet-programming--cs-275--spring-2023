@@ -45,7 +45,7 @@ Before you begin, **update Node, NPM, ESLint, and Stylelint** via `npm` from you
 
 ## ❖・Due・❖
 
-Friday, 24 March 2023, at 10:00 PM.
+Saturday, 25 March 2023, at 9:00 AM.
 
 **Note**: This assignment may *only* be submitted via GitHub. **No other form of submission will be accepted**.
 
