@@ -54,6 +54,16 @@ Before you begin, **update Node, NPM, ESLint, and Stylelint** via `npm` from you
 * Set the width of each slide in your carousel to `640` pixels, with left/right padding of `20` pixels.
 * Place *all* your styles in `main.css`.
 
+### JavaScript
+
+* No JavaScript libraries may be used.
+* The included `data.json` file is *not* in JSONP format. Thus, you will need to make a slight edit to the file. **Note**: Your edit does *not* require changing any of the properties in `data.json`.
+* Place *all* your JavaScript in `main.js`.
+* Your code should not generate any ESLint errors, except warnings for line lengths.
+* Use back ticks exclusively for all variable interpolation and string manipulation. Should you need to defeat this rule, explain so in a comment and commit message.
+* Avoid function hoisting; use only arrow functions. Should you need to defeat this rule, explain so in a comment and commit message.
+* No variable hoisting; only `let` declarations. Again, should you need to defeat this rule, explain so in a comment and commit message.
+
 ## ❖・Due・❖
 
 Saturday, 25 March 2023, at 9:00 AM.
