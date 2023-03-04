@@ -23,6 +23,11 @@ Your task is to create a *single* web page consisting of HTML, CSS, and JavaScri
 **Note**: *You may **only** work from within the confines of the included scaffold; no external files need to be added to this repo.*
 
 ---
+
+## ❖・Rules・❖
+
+Before you begin, **update Node, NPM, ESLint, and Stylelint** via `npm` from your CLI.
+
 ## ❖・Due・❖
 
 Friday, 24 March 2023, at 10:00 PM.
