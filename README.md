@@ -43,6 +43,17 @@ Before you begin, **update Node, NPM, ESLint, and Stylelint** via `npm` from you
 * The included `index.html` contains all the HTML required for this project. **Do not** edit it.
 * Any DOM manipulations *must* take place via JavaScript.
 
+### CSS
+
+* No CSS libraries may be used.
+* Use *only* the Open Sans typeface, which is included in the `head` element of `index.html`, and the weights of `300` and `600`.
+* Keep the default font size to 16 pixels.
+* Set the content leading to `1.4`.
+* Set the font size of `h1` to 32 pixels.
+* Set the leading of the `h1` element to `38px`.
+* Set the width of each slide in your carousel to `640` pixels, with left/right padding of `20` pixels.
+* Place *all* your styles in `main.css`.
+
 ## ❖・Due・❖
 
 Saturday, 25 March 2023, at 9:00 AM.
