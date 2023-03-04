@@ -97,8 +97,6 @@ As mentioned in the introduction, you must employ Gulp as the task runner with w
 
 Saturday, 25 March 2023, at 9:00 AM.
 
-**Note**: This assignment may *only* be submitted via GitHub. **No other form of submission will be accepted**.
-
 ---
 
 ## ❖・Grading・❖
