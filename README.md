@@ -64,6 +64,14 @@ Before you begin, **update Node, NPM, ESLint, and Stylelint** via `npm` from you
 * Avoid function hoisting; use only arrow functions. Should you need to defeat this rule, explain so in a comment and commit message.
 * No variable hoisting; only `let` declarations. Again, should you need to defeat this rule, explain so in a comment and commit message.
 
+## ❖・Tips・❖
+
+1. Prepare the Gulp tracks *before* implementing this project. Doing this project in reverse defeats the role of Gulp in this assignment
+2. The included CSS and JavaScript files contain errors and superfluous white space, on purpose. As you stand up the Gulp tracks, you can verify whether your linters and EditorConfig work, before you implement the project.
+3. Before issuing your pull request, clone your final repo to a different folder, or even a different machine, then run your development and production tracks in Gulp. This will ensure that what you’ve cloned is precisely what is submitted in your pull request.
+
+---
+
 ## ❖・Due・❖
 
 Saturday, 25 March 2023, at 9:00 AM.
