@@ -76,10 +76,10 @@ Saturday, 25 March 2023, at 9:00 AM.
 
 | Item                                                      | Points |
 | --------------------------------------------------------- | :----: |
-| *Assignment fully implemented according to directions*    | `25`   |
-| *Overall code quality across Gulp, JavaScript, and CSS*   | `25`   |
-| *User interface matches assignment video rendering*       | `25`   |
-| *Full Gulp development and production scaffolds in place* | `25`   |
+| *Assignment fully implemented according to directions*    | `30`   |
+| *Overall code quality across Gulp, JavaScript, and CSS*   | `30`   |
+| *Full Gulp development and production scaffolds in place* | `30`   |
+| *User interface matches assignment video rendering*       | `10`   |
 
 ---
 
