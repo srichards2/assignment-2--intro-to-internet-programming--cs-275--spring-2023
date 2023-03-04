@@ -15,6 +15,14 @@
 4. Checkout your personalized branch, the one with your name and GitHub user handle.
 
 ---
+
+## ❖・Introduction・❖
+
+Your task is to create a *single* web page consisting of HTML, CSS, and JavaScript that creates a carousel of images whose data are sourced via JSONP from a local file system, much like how a full-stack app might read data from a database. A 26-second video of what the final implemented project looks like is available from [http://vanegas.cs.hartford.edu/uploads/videos/cs-275/working-with-jsonp.mp4](http://vanegas.cs.hartford.edu/uploads/videos/cs-275/working-with-jsonp.mp4).
+
+**Note**: *You may **only** work from within the confines of the included scaffold; no external files need to be added to this repo.*
+
+---
 ## ❖・Due・❖
 
 Friday, 24 March 2023, at 10:00 PM.
