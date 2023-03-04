@@ -64,6 +64,27 @@ Before you begin, **update Node, NPM, ESLint, and Stylelint** via `npm` from you
 * Avoid function hoisting; use only arrow functions. Should you need to defeat this rule, explain so in a comment and commit message.
 * No variable hoisting; only `let` declarations. Again, should you need to defeat this rule, explain so in a comment and commit message.
 
+### Task Running with Gulp
+
+As mentioned in the introduction, you must employ Gulp as the task runner with workflows for development and production. **Employ *only* the tasks discussed below. You will lose points for implementing superfluous tasks.**
+
+#### Development
+
+* Your CSS must validate using the enclosed `.stylelintrc.json` file.
+* Your JavaScript must validate using the included `.eslintrc.json` file.
+* Your JavaScript must be transpiled to ES5.
+* Saving a file of type `.css`  or `.js` must lint/validate the respective language file. Recall that you needn’t validate HTML, because you’re not allowed to edit it, and it’s already been linted.
+* Saving any of the aforementioned source files should also refresh the browser, after linting.
+* The entire development track must be triggered by typing `gulp`.
+
+#### Production
+
+* The production, or prod, track must compress all the aforementioned languages, including HTML. *Do not lint them*, as they have already been linted in the development track.
+* Running `gulp build` must load the *entire* production environment into a folder called `prod`, which must be fully self-sufficient and contain all the required files — compressed and linted — of the web page. **Note**: Check that your entire project works as a standalone web app in the `prod` folder. You can do so by moving the `prod` folder elsewhere in your file system before submitting, then launching `index.html`.
+* The entire production track must be triggered by typing `gulp build`.
+
+---
+
 ## ❖・Tips・❖
 
 1. Prepare the Gulp tracks *before* implementing this project. Doing this project in reverse defeats the role of Gulp in this assignment
