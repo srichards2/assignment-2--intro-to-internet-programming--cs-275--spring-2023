@@ -1,24 +1,78 @@
-abcdef {                                 
-     color: cs275
+* {
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
+/* Typography */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.4;
+}
 
+h1 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+  margin-top: 5%;
+  width:calc(640 *4 )
+}
 
+/* Carousel */
+.carousel {
+  width: 680px;
+  margin: 0 auto;
+  position: relative;
+  height: fit-content;
+}
 
+.carousel-navigation {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  height: 30px;
+}
 
+.carousel-navigation a {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: -15px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
 
+.carousel-slides {
+  display: flex;
+  overflow-y: hidden;
+  width:  calc(640px * 4);;
+  padding: 20px;
+  margin-top: 10%;
+  padding-right: 0;
+}
 
+.carousel-slides img {
+  flex-shrink: 0;
+  width: 640px;
+  height: auto;
+  scroll-snap-align: start;
+  padding-right: 20px;
+}
+@media only screen and (max-width: 480px) {
+  .carousel-navigation a {
+    height: 30px;
+    width: 30px;
+  }
 
+  .carousel-navigation img {
+    height: 15px;
+    width: 15px;
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
+  .carousel-slides img {
+    width: calc(100% / 2);
+  }
+}
